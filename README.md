@@ -30,7 +30,6 @@ I am a **Software Engineer (Android)** with a focus on building high-scale mobil
 
 * **Email:** [rajeevsachan1999@gmail.com](mailto:rajeevsachan1999@gmail.com)
 * **LinkedIn:** [linkedin.com/in/rajeevsachan](https://www.linkedin.com)
-* **GitHub:** [iamrv-sachan](https://github.com/iamrv-sachan)
 * **Profiles:** [LeetCode](https://leetcode.com) | [CodeChef](https://www.codechef.com)
 
 ---
