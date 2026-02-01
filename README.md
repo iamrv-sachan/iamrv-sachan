@@ -21,7 +21,7 @@ I am a **Software Engineer (Android)** with a focus on building high-scale mobil
 | **Languages** | Kotlin, Java, C++, TypeScript |
 | **Android Frameworks** | Jetpack Compose, Dagger 2, Coroutines, Flows, RoomDB |
 | **Architecture** | Clean Architecture, MVVM, Multi-module projects |
-| **Networking & Tools** | Retrofit, Firebase, YAML, Git, Cast SDK |
+| **Networking & Tools** | Rest API, Retrofit, Firebase, YAML, Git, Cast SDK |
 | **Testing** | MockK, Mockito, Espresso, Gherkin |
 
 ---
